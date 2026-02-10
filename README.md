@@ -1,0 +1,1 @@
+# aws-secrets-governance-aws
